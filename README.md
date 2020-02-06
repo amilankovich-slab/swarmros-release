@@ -1,6 +1,6 @@
-## swarmros (kinetic) - 0.3.1-2
+## swarmros (kinetic) - 0.3.1-4
 
-The packages in the `swarmros` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic swarmros --edit` on `Thu, 21 Nov 2019 11:35:47 -0000`
+The packages in the `swarmros` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic swarmros --edit` on `Thu, 06 Feb 2020 09:35:47 -0000`
 
 The `swarmros` package was released.
 
@@ -9,8 +9,8 @@ Version of package(s) in repository `swarmros`:
 - upstream repository: https://github.com/amilankovich-slab/swarmros.git
 - release repository: unknown
 - rosdistro version: `null`
-- old version: `0.3.1-1`
-- new version: `0.3.1-2`
+- old version: `0.3.1-3`
+- new version: `0.3.1-4`
 
 Versions of tools used:
 
@@ -21,9 +21,9 @@ Versions of tools used:
 - vcstools version: `0.1.42`
 
 
-## swarmros (kinetic) - 0.3.1-1
+## swarmros (kinetic) - 0.3.1-4
 
-The packages in the `swarmros` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic swarmros --edit` on `Thu, 21 Nov 2019 10:57:26 -0000`
+The packages in the `swarmros` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic swarmros --edit` on `Thu, 06 Feb 2020 09:35:47 -0000`
 
 The `swarmros` package was released.
 
@@ -33,7 +33,7 @@ Version of package(s) in repository `swarmros`:
 - release repository: unknown
 - rosdistro version: `null`
 - old version: `null`
-- new version: `0.3.1-1`
+- new version: `0.3.1-4`
 
 Versions of tools used:
 
