@@ -1,3 +1,26 @@
+## swarmros (kinetic) - 0.3.4-1
+
+The packages in the `swarmros` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic swarmros --edit` on `Thu, 05 Mar 2020 20:34:11 -0000`
+
+The `swarmros` package was released.
+
+Version of package(s) in repository `swarmros`:
+
+- upstream repository: https://github.com/amilankovich-slab/swarmros.git
+- release repository: https://github.com/amilankovich-slab/swarmros-release.git
+- rosdistro version: `0.3.2-1`
+- old version: `0.3.3-7`
+- new version: `0.3.4-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.3`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## swarmros (kinetic) - 0.3.3-7
 
 The packages in the `swarmros` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic swarmros --edit` on `Wed, 04 Mar 2020 15:56:43 -0000`
